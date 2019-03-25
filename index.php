@@ -1,0 +1,17 @@
+<?php
+if (isset($_POST['sub']))
+{
+	$log = $_POST['log']
+		$pass = $_POST['pass']
+		$l = "ldonnis";
+	$p = "1234";
+	if($log == $1 && &pass == $p)
+	{
+		echo "Welcome!".$1;
+	}
+	else
+	{
+		echo "Error";
+	}
+}
+?>
